@@ -1,0 +1,28 @@
+.row1{
+    display: flex;
+    padding-bottom: 15px;
+}
+  
+.row2{
+    display: flex;    
+}
+.column{
+    display: flex;
+    justify-items: center;
+    padding: 15px;
+}
+.column2{
+    display: flex;
+    justify-items: center;
+    padding: 15px;
+}
+h1{
+    text-align: center;
+}
+body{
+    align-items: center;
+}
+image{
+    height: 50px;
+    width: 50px;
+}
